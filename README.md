@@ -1,2 +1,2 @@
-# placement_assesment_python_vaishant_sah
-Placement Assesment of Python Problem Statement and Solution
+# placement_assessment_vaishant_sah
+Ineuron assessment for placement
